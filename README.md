@@ -1,14 +1,8 @@
-# Naja
+<img width="1280" height="640" alt="naja-banner" src="https://github.com/user-attachments/assets/826635fa-c082-4c5e-ab0a-8071d868a108" />
 
-Naja is a Go library for building command-line applications and a hard fork of
-[Cobra](https://github.com/spf13/cobra).
+---
 
-[![Test](https://github.com/naja-go/naja/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/naja-go/naja/actions/workflows/test.yml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/naja-go/naja.svg)](https://pkg.go.dev/github.com/naja-go/naja)
-[![Go Report Card](https://goreportcard.com/badge/github.com/naja-go/naja)](https://goreportcard.com/report/github.com/naja-go/naja)
-
-# Overview
-
+Naja is a Go library for building powerful, robust, and modern command-line applications.
 Naja helps build CLIs with subcommands, like `git` and `go`.
 
 Naja provides:
